@@ -52,4 +52,3 @@ Recurring: 2 times (one on the 9th, one on the 10th)
 
 Reminder: Reminds 1 day before
 
-Invitees: <Not clear how we are going to manage that, for now it's a manual process>
